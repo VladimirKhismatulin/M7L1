@@ -33,4 +33,4 @@ async def image(ctx):
 #async def help(ctx):
     #await ctx.send("!Help - показывает команды (как ты и догадался), !hint - даёт совет об экологии, !mem - скидывает мем про экологию, !hello - приветствуется с вами.")
 
-bot.run("MTA5Njc2MDk4Nzg3ODY5OTA2OA.G2tH5i.pA89FGjHBXuc_rsfHqWfsYsRbR8WJL2dBVUyzA")
+bot.run("")
